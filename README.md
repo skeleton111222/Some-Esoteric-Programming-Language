@@ -19,7 +19,7 @@
 
 - **Original Brainfuck**: [Link to the original Brainfuck interpreter](http://main.aminet.net/dev/lang/brainfuck-2.lha)
 - **Awib**: [GitHub Repository of Awib](https://github.com/matslina/awib)
-- **Optimizing BF Interpreter**: [Wayback Machine Archive (July 19, 2023)](https://web.archive.org)
+- **Online BF Interpreter**:[TryItOnline](https://tio.run/#brainfuck)
 
 ---
 
